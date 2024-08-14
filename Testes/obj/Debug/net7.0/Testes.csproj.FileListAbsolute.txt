@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\bin\Debug\net7.0\Testes.exe
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\bin\Debug\net7.0\Testes.deps.json
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\bin\Debug\net7.0\Testes.runtimeconfig.json
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\bin\Debug\net7.0\Testes.dll
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\bin\Debug\net7.0\Testes.pdb
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.dll
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\refint\Testes.dll
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.pdb
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\Testes.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Matheus Pessoal\Acadêmico\Curso C# COMPLETO Programação Orientada a Objetos + Projetos\Testes\Testes\obj\Debug\net7.0\ref\Testes.dll
